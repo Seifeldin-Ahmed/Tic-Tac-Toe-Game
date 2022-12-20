@@ -116,13 +116,21 @@
      I will assume the following probabilites, just to let us understand why we doing this
      
 1)AI:                                                                                                                          [ ]
+
 2)Human:                                                                              (-2)[2]                                                    [3][4][5][6][7][8][9]
+
 3)AI:                                                          (2)[3]                                      (0)[4] (0)[5] (-2)[6] (0)[7] (0)[8] (-2)[9] 
+
 4)Human:                                          (-2)[4]                            (-2)[5] (0)[6] (0)[7] (2)[8] (2)[9]        
+
 5)AI:                                (2)[5]                         (-2)[6] (0)[7] (2)[8] (0)[9]  
+
 6)Human:               (-2)[6]                 (0)[7] (2)[8] (-2)[9]
+
 7)AI:    (-2)[7]       (-2)[8]       (-2)[9]
+
 8)Human:           (-2)[7]  (-2)[9]    
+
 9)AI:              (-2)[9]  (-2)[7]
      so the game state if AI played in cell [0][1] is lose , so that what MiniMax() method does, it returns the game state
      but like we mentioned if AI played in cell[0][1] he will lose , so we have to try another cell , that what FindBestMove() method does.
