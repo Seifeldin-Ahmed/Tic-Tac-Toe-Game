@@ -11,6 +11,7 @@
      
      First Human(x) play in cell[0][0] then AI play in cell[0][1], now the posibiltes for Human all the empty cells
         lets give each cell a number to help us in better understanding
+        
           -------------          ------------- 
           | X | O |   |          | X | O | 3 |
           -------------          -------------
