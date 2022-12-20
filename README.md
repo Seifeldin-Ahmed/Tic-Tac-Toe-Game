@@ -1,5 +1,17 @@
 # Tic-Tac-Toe-Game
 
+
+
+
+![menu](https://user-images.githubusercontent.com/120275931/208754636-59ce1198-fa32-4b22-8157-62f4c86798ff.png)
+
+
+
+
+
+
+
+
 ///////////////////////// What is MiniMax Algorithm and How it's Working !!! //////////////////////////
 
   1) AI want to choose the max score for him so he is Maximizer                    
