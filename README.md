@@ -1,15 +1,15 @@
 # Tic-Tac-Toe-Game
 
 
-               ![menu](https://user-images.githubusercontent.com/120275931/208754636-59ce1198-fa32-4b22-8157-62f4c86798ff.png)
+   ![menu](https://user-images.githubusercontent.com/120275931/208754636-59ce1198-fa32-4b22-8157-62f4c86798ff.png)
 
-               ![menu1](https://user-images.githubusercontent.com/120275931/208754803-021c1f4d-af0f-45a4-8184-a8082dbc328f.png)
+   ![menu1](https://user-images.githubusercontent.com/120275931/208754803-021c1f4d-af0f-45a4-8184-a8082dbc328f.png)
 
-               ![start](https://user-images.githubusercontent.com/120275931/208754815-852597d3-395e-4d62-8dee-eb13f066f6a4.png)
+   ![start](https://user-images.githubusercontent.com/120275931/208754815-852597d3-395e-4d62-8dee-eb13f066f6a4.png)
 
-               ![start1](https://user-images.githubusercontent.com/120275931/208754823-76d8715d-3494-46ec-ae2e-9451428d97e1.png)
+   ![start1](https://user-images.githubusercontent.com/120275931/208754823-76d8715d-3494-46ec-ae2e-9451428d97e1.png)
 
-               ![end](https://user-images.githubusercontent.com/120275931/208754830-4c46e97c-00d8-47fd-91f5-eea1e4bbb76d.png)
+   ![end](https://user-images.githubusercontent.com/120275931/208754830-4c46e97c-00d8-47fd-91f5-eea1e4bbb76d.png)
 
 
 ///////////////////////// What is MiniMax Algorithm and How it's Working !!! //////////////////////////
